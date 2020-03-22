@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Hello welcome to version control chapter 2!";
+echo "Hello welcome to version control chapter 3!";
 phpinfo();
 
 
