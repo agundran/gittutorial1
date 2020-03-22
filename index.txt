@@ -1,0 +1,8 @@
+<?php
+
+
+echo "Hello welcome to version control chapter 2!!";
+phpinfo();
+
+
+?>
